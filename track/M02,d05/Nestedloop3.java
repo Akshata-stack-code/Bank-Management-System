@@ -7,7 +7,7 @@ public class Nestedloop3 {
             int j = 1;
             do {
                 System.out.println(j);
-                j++;.....polo
+                j++;
             } while (i <= 5);
             System.out.println();
             i++;
