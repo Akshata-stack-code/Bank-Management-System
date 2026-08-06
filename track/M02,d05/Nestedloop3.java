@@ -6,9 +6,11 @@ public class Nestedloop3 {
         do {
             int j = 1;
             do {
-                System.out.println(j);
+
+                System.out.print(j + " ");
                 j++;
-            } while (i <= 5);
+            } while (j <= 5);
+
             System.out.println();
             i++;
         } while (i <= 5);
