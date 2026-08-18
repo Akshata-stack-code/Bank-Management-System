@@ -1,0 +1,19 @@
+SBI
+101
+Akshata Karajagi
+9876543210
+Savings
+5000.0
+Bank Name : SBI
+UserId : 101
+UserName : Akshata Karajagi
+Account number : 9876543210
+Account type : Savings
+Current Balance : 5000.0
+Bank name: SBI
+User Name : Akshata Karajagi
+Account Number : 9876543210
+Account Type : Savings
+Account Balance : 5000.0
+1000.0
+Minimum balance is maintained.

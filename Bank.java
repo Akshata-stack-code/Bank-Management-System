@@ -33,16 +33,18 @@ public class Bank {
     }
 
     String accountSummary() {
-        String accountSummary = "Bank name: " + bankName + "\nUser Name : " + userName + "\nAccount Number : "
-                + accountNumber + "\nAccount Type : " + accountType + "\nAccount Balance : " + balance;
+        String accountSummary = "Bank name: " + bankName
+                + "\nUser Name : " + userName
+                + "\nAccount Number : " + accountNumber
+                + "\nAccount Type : " + accountType
+                + "\nAccount Balance : " + balance;
         return accountSummary;
     }
 
     boolean hasMinimumBalance(double minimumBalance) {
-        boolean res = false;
         if (balance >= minimumBalance) {
-            res = true;
+            return true;
         }
-        return res;
+        return false;
     }
 }

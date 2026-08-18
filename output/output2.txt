@@ -1,21 +1,20 @@
-User program running
 Axis Bank
-308
-Amit Kumar
-11224466880
-current
-1500.0
+102
+Shrushti
+1234567890
+Savings
+500.0
 Bank Name : Axis Bank
-UserId : 308
-UserName : Amit Kumar
-Account number : 11224466880
-Account type : current
-Current Balance : 1500.0
+UserId : 102
+UserName : Shrushti
+Account number : 1234567890
+Account type : Savings
+Current Balance : 500.0
 Bank name: Axis Bank
-User Name : Amit Kumar
-Account Number : 11224466880
-Account Type : current
-Account Balance : 1500.0
-2000
+User Name : Shrushti
+Account Number : 1234567890
+Account Type : Savings
+Account Balance : 500.0
+1000.0
 User program finished
 Minimum balance is not maintained.

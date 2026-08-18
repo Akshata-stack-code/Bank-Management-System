@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-class BankApplication {
+public class BankApplication {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
