@@ -1,0 +1,21 @@
+User program running
+Axis Bank
+308
+Amit Kumar
+11224466880
+current
+1500.0
+Bank Name : Axis Bank
+UserId : 308
+UserName : Amit Kumar
+Account number : 11224466880
+Account type : current
+Current Balance : 1500.0
+Bank name: Axis Bank
+User Name : Amit Kumar
+Account Number : 11224466880
+Account Type : current
+Account Balance : 1500.0
+2000
+User program finished
+Minimum balance is not maintained.
