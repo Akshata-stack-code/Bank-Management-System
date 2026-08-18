@@ -1,5 +1,4 @@
 
-
 public class Bank {
 
     String bankName;
